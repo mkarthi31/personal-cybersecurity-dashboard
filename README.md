@@ -53,11 +53,12 @@ streamlit run main.py
 *Example of a clean check — no new breaches found for this email.*
 
 ### Password Strength — Low
-![Password Strength Low](screenshots/password_strength_2.png)
+![Password Strength Low](screenshots/password_strength2.png)
 *Password strength check showing a low score (0–1). Use to encourage better passwords.*
 
 ### Password Strength — High
-![Password Strength High](screenshots/password_strength_1.png)
+![Password Strength High](screenshots/password_strength1.png)
 *Password strength check showing a high score (3–4).*
+
 
 
