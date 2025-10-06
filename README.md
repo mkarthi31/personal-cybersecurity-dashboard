@@ -29,12 +29,13 @@ The system is built with **Streamlit** for the user interface, **SQLite** for st
 2. Install required packages:
     ```bash
     pip install streamlit schedule
-    pip install zxcvbn-python  # optional
+    pip install zxcvbn-python 
     ```
 
 ### Run the Dashboard
 ```bash
 streamlit run main.py
+'''
 
 ## Screenshots
 
@@ -58,3 +59,4 @@ streamlit run main.py
 ### Password Strength — High
 ![Password Strength High](screenshots/password_strength_1.png)
 *Password strength check showing a high score (3–4).*
+
